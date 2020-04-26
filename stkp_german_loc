@@ -1,0 +1,277 @@
+STARTING A NEW FLIGHT FROM SCRATCH
+If you want to create a new flight plan with SimBrief, hit Generate New Flight to open the dispatcher. Once you have entered the flight information and generated your plan, the route will be displayed here. If it doesn't show, see below!
+
+If you'd like to just do a simple flight you can enter 2 ICAOs and hit the Load Pasted Flight Plan button to start a simple flight. You can select your runways, and any procedures and set off.
+#
+Einen neuen Flugplan erstellen
+Simbrief wurde in STKP integriert. Du kannst über [Link]"Neuen Flugplan erstellen"[/Link] den SimToolkitPro Dispatcher öffnen. Hier kannst du alle Informationen eintragen und über Simbrief deinen Flugplan erstellen. Die Route wird links angezeigt. Sollte der Flugplan nicht erzeugt werden, schau bitte unten unter "Probleme"
+
+Um Simbrief in SimToolkitPro zu nutzen, stelle bitte sicher dass du in den Einstellungen deinen Simbrief-Benutzernamen eingetragen hast. 
+
+Möchtest du nur einen schnellen Flug erstellen, kannst du einfach 2 ICAOs in route eingeben und auf [LINK] Eingefügten Flugplan laden [/LINK]. Danach kannst du den Flugplan durch SIDs und STARs ergänzen.
+
+
+IMPORTING A FLIGHT FROM SIMBRIEF
+If you have already generated your flight plan with SimBrief and want to import it, you can do so by clicking Load latest simbrief flight. Your most recently generated flight plan will be downloaded and displayed here.
+#
+Flugplan von Simbrief importieren
+Soltlest du deinen Flugplan (OFP) bereits auf der Simbrief Webseite erstellt haben, kannst du über [Link]"letzten Simbrief OFP laden"[/Link] deinen aktuell erstellen Flugplan laden.
+Um Simbrief in SimToolkitPro zu nutzen, stelle bitte sicher dass du in den Einstellungen deinen Simbrief-Benutzernamen eingetragen hast. 
+
+
+
+IMPORTING A FLIGHT FROM PFPX
+If you have generated your flight using PFPX and want to import it click the Load PFPX Briefing Package button. From the pop up select the saved OFP you generated. If you have issues with detection of ICAOs ensure it is saved in UTF8 format. This can quickly done by opening the OFP in notepad and resaving with Encoding set to UTF-8 in the save dialog.
+#
+Flugplan von PFPX importieren
+Um einen Flugplan aus PFPX zu importieren, klicke auf [Link]"PFPX Briefing Paket laden"[/Link] Danach wählst du den erstellten OFP aus. Sollten ICAOS falsch eingelesen werden, stelle bitte sicher, dass die Textdatei in UTF-8 gespeichert wurde. Dazu kannst du die Datei im Texteditor öffnen und im Speichern Dialog die Textkodierung auswählen. 
+
+
+
+HAVING TROUBLE?
+Using all SimBrief services (Dispatch and plan retrieval) require you to have entered your SimBrief username (the same you enter on the SimBrief website to login) in the settings page.
+#
+Probleme?
+SimToolkitPro nutzt SimBrief Dienste. Damit diese funktionierten, musst du sicherstellen, dass dein SimBrief Benutzername (Dein Loginname für die Simbrief Webseite) in den Einstellungen richtig ist. 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+This is very early version of Live Map 2.0! A lot of features available in the old Live Map have not yet been moved over, regular updates will be adding more features very soon. The old map system will be phased out after everything that can be moved over has been. It is not recommended to use this for online flying as features are moved over from the old map. 
+#
+Dies ist eine frühe vorab Version der neuen Live Karte 2.0! Viele Funktionen der alten Karte wurden noch nicht portiert, neue werden aber mit jedem Update hinzugefügt. Das alte Kartensystem wird nach dem Abschluss des Umzugs abgeschaltet. Es wird derzeit noch nicht Empfohlen die Live Karte 2.0 für online Flüge zu nutzen.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Donate
+SimToolkitPro will be forever free, but there are minimal running costs with it. If you have found SimToolkitPro super useful an would like to contribute to development you can do so here.
+
+If you are unable to just spreading the word to your friends about SimToolkitPro is more than enough.
+
+Any and all donations received will be put in streaming, feature development and making SimToolkitPro the best flight sim suite out there!
+
+Click OK to head to the donate page or cancel to close
+
+Thanks, Dan <3
+#
+Spenden
+SimToolkitPro wird immer ein kostenloses Projekt bleiben. Allerdings entstehen ein paar Betriebskosten. Solltest du SimToolKitPro nützlich finden, freue ich mich über einen Beitrag zur Entwicklung und zum Unterhalt. 
+
+Solltest du nicht spenden können, verbreite SimToolkitpro, das bedeutet mir genauso viel. 
+
+Alle Spenden fließen in den Betrieb und die weitere Entwicklung von SimToolkitPro zum Besten Begleiter auf deinen Flügen.
+
+Klicke auf OK um auf meine Spendenseite auf Paypal weitergeleitet zu werden.
+
+Herzlichen Dank, Dan <3
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Change units [nautical miles][metres] [land miles] # Einheiten ändern [nautische Meilen] [Meter] [Meilen]
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Loading # Lade
+local # lokal
+Cycle # Zyklus
+
+Dashboard # Übersicht
+Flights # Flügen
+Fleet # Flotte
+Loc # Loc
+
+Occasionally back up your data from Documents/SimToolkitPro! # Sichere bitte regelmäßig deine Daten im Ordner "Dokumente/SimToolkitPro"!
+
+Live Map # Live Karte
+Search # Suche
+Airports # Flughafen
+Major # Große
+Minor # Kleine
+NAVAIDS # There is no good word in German exepct "Nav. hilfen" but it seems to long. But i think Navaids will be understood
+Day # Tag
+Night # Nacht
+NAT TRACKS # NAT Route
+Network # Netzwerk
+Live Map # Live Karte
+My Plan # Mein Flugplan / Mein Plan you can choose, either of them works the first one is more specific 
+Weather # Wetter
+Precip # Niederschlag
+other # Sonstiges
+Options # Optionen
+Start Measuring # Messung starten
+Stop Measuring # Messung stoppen
+Change units [nautical miles][metres] [land miles] # Einheiten ändern [nautische Meilen] [Meter] [Meilen]
+Clear Measurements - Messungen Löschen
+
+Live Map 2.0beta # Live Karte 2.0 beta
+Layers & Options # Schichten & Optionen
+Map Type # Kartendarstellung
+Dark # Dunkel
+Light # Hell
+Satellite # Satellit
+Terrain # Terrain
+Map Features # Karteneinstellungen
+Precipitation # Niederschlag
+Follow Me # Folge mir
+Day/Night # Tag/Nacht
+FIR Boundaries # FIR Grenzen
+My Plan # Mein Plan
+Navigation Display # Navigations Darstellung
+VOR # VOR
+NDB # NDB
+Airport Dispolay # Flughafen Darstellung
+Major # Große
+Minor # Kleine
+Flights # Flüge
+Me # Ich
+STKP # STKP
+VATSIM # VATSIM
+IVAO # IVAO
+PilotEdge # PilotEdge
+FSCloud # FSCloud
+POSCON # POSCON
+Network Airspace ATC - aktive Lufträume in ATC Netzwerken
+VATSIM # VATSIM
+IVAO # IVAO
+Network Airport ATC - aktive Flughäfen in ATC Netzwerken
+VATSIM # VATSIM
+IVAO # IVAO
+KNOWN ISSUES/BUGS # bekannte Probleme/Bugs
+Network icon orientation buggy when rotating the map # Orientierung des Netzwerksymbols fehlerhaft wenn die Karte gedreht wird
+Day/night overlay not updating correctly # Tag/Nacht Overlay wird nicht richtig aktualisiert
+Aircraft icon not updating from follow to normal orientation - Flugzeug Symbol wird nicht richtig aktualisiert 
+ATC only shows Airspaces  # ATC zeigt nur Flugräume an
+Follow me is a bit jumpy and needs smoothing out # Folge mir springt manchmal und braucht noch etwas politur
+Save and Update # Speichern und Aktualisieren
+Hide # verstecken
+Flight Planning # Flugplanung
+Flight Planner # Flugplaner
+Load PFPX Briefing Package # PFPX Briefing Paket laden
+Clear Flightplan # Flugplan löschen
+Generate a New Flight # Neuen Flugplan erstellen
+SimToolkitPro Dispatcher # SimToolkitPro Dispatcher
+Departure # Abflughafen
+Destination # Zielflughafen
+Aircraft # Flugzeug
+Flight Number # Flugnummer
+Please ensure you have set airframe, registration and airline for fleet aircraft to appear in this list. # Stelle bitte sicher, dass du in den Einstellungen einen Flugzeugrahmen, Registrierung und Fluggesellschaft eingetragen hast, damit Flotten Flugzeuge in der Liste erscheinen
+ATC Callsign # ATC Funkrufname
+Departure Date(z) # Abflugdatum (z)
+Departure Time (z) # Abflugzeit (z)
+* required for dispatch # *Pflichtfelder
+At busy times dispatching can take a little longer, please wait for the SimBrief window to close and allow some time for the OFP to be processed before cancelling. # Zu Stoßzeiten kann es manchmal etwas länger dauern, bitte warte immer bis das SimBrief Fenster geschlossen wurde und erlaube dem Netzwerk etwas Zeit bis dein OFP verarbeitet wurde.
+Advanced # Erweitert
+Routing # Route
+Select specific runways for your departure and arrival airports # Wähle die gewünschte Bahn für den Start- und Zielflughafen aus
+Dep Rwy # Startbahn
+Dest Rwy # Landebahn
+Use a predesignated routing for this flight? Leave empty to have one generated # Benutzerdefinierte Route verwenden? Freilassen für automatische Erzeugung
+Custom Route # Benutzerdefinierte Route
+Enter a altername and specify a list of alternates to avoid # Ausweichziel festlegen oder vermeiden
+alternate # Ausweichziel
+Avoided Alternates # Ausweichziele vermeiden
+Performance # Performance
+Use a custom cruise profile and altitude? # Benutzerdefiniertes Cruise Profile und Flughöhe auswählen
+Cruise Profile # Cruise Profile
+Cruise Altitude # Reiseflughöhe
+Cruise mode will be reset to AUTO for airframes that don't support customised profiles in simBrief # Sollte dein Flugzeug in Simbrief keine Cruise Modes festgelegt haben, wird die Einstellung auf AUTO zurückgesetzt
+Fuel # Kraftstoff
+Set custom continuity fuel and reserve fuel for the flight # Bentuzerdefineirte Reserve und Continuity Treibstoff
+Cont Fuel # Cont Treibstoff
+Resv Fuel # Resv Treibstoff
+Specify taxi out and in fuel times # Taxi Zeiten zur Treibstoffberechnung
+Taxi Out Fuel # Taxizeit Abflug 
+Taxi in Fuel #  Taxizeit Ankunft
+Set custom fuel factor for this flight # Bentuzerdefinierten Treibstofffaktor für Flug festlegen
+Fuel Factor # Treibstofffaktor
+Weights # Gewichte
+Specify Individual PAX weight and Cargo and ZFW weights for the flight # PAX- und Frachtgewicht sowie ZFW  für Flug einstellen
+PAX # PAX
+CARGO # Fracht
+ZFW # ZFW
+Generate Plan # Plan erstellen
+Generating - Click to Cancel # Generierung läuft, zum abbrechen klicken
+Departure # Abflug
+SID # SID
+Enroute # Reiseroute
+No STAR # kein Start
+No Transition # Keine Transition
+No Approach # Kein Approach
+Arrival # Ankunft
+Prefile # Prefile
+Export # Export
+Latest Simbrief OFP # Letzten Simbrief OFP laden
+Load Pasted Flight Plan # Eingefügten Flugplan laden
+Flight # Flug
+Callsign # Funkrufname
+Aircraft # Flugzeug
+Network # Netzwerk
+Flight Routing # Flug Routing
+Distance # Entfernung
+approx # circa
+ETE # ETE
+approx # circa
+Fly now # Jetzt fliegen
+Flight Summary # Flugübersicht
+Charts&Maps # Karten
+Scratchpad # Notizblock
+Waypoints # Wegpunkte
+Your Profile # Dein Profil
+Logbook # Logbuch
+Search # Suche
+Route # Route
+Callsign # Rufname
+Aircraft # Flugzeug
+Time # Zeit
+Date # Datum
+Action # Aktion
+Total Flights # Gesamtflüge
+Total Hours # Gesamtstunden
+Total Distance # Gesamtdistanz
+Most visited # Am meisten besucht
+Hide Airpot ICAOs # verstecke Flughafen ICAOs 
+Hide Airport Markers # verstecke Flughafen Marker
+Hide Routes # verstecke Routen
+Hiding routes may not take effect until you reload this module # Verstecke Routen kann manchmal erst nach neu laden dieses Moduls richtig dargestellt werden.
+Export CSV # CSV exportieren
+Fleet # Flotte
+Add Custom Aircraft # Flugzeug hinzufügen
+Update Stats # Statistiken aktualisieren
+Mange Fleet/Airframes # Flotte/Flugzeuge verwalten
+Search # Suche
+Schedule # Zeitplan
+My Scheduled Flights # Meine geplanten Flüge
+Real World Flights # Realwelt Flüge
+Flight Number # Flugnummer
+Airline # Fluggesellschaft
+Route # Route
+ETE # ETE
+Aircraft # Flugzeug
+Dispatch Count # Dispatch Anzahl
+Repeat Flight # Flug Wiederholen
+No Scheduled Flights # Keine geplanten Flüge
+Search # Suche
+Flight Number # Flug Nummer
+Departure Airport # Abflughafen
+Destination Airport # Zielflughafen
+Operator - Flugline
+Any Aircraft # Alle Flugzeuge
+Create a scheduled flight # Erstelle geplanten Flug
+Landing Reports - Landereports
+Aircraft # Flugzeug
+ICAO # ICAO
+Runway # Landebahn
+Landing Rate # Landerate
+Landing Speed # Landegeschwindigkeit
+View Report # Report öffnen 
+Delete # Löschen
+Log Editor # Log Editor
+Route # Route
+Aircraft Log # Flugzeug Log
+Aircraft # Flugzeug
+Time # Zeit
+Date # Datum
+Action # Aktion
+This is an early implementation of the logbook editor, it will be greatly expanded, but for now will allow aircraft type adjustments, cruise, ATC data, and times. # Dies ist eine frühe implementierung des Logbuch Editors. er wird in weiteren Versionen noch erweitert. Bis dahin sind nur kleine Änderungen (Flugzeugtyp, Cruise, ATC Daten und Zeiten) Möglich.
+
+
+
+
